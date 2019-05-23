@@ -1,0 +1,55 @@
+form{
+    position: absolute;
+    top: 150px;
+    background: white;
+    margin-left: 40%;
+    width: 20%;
+    height: 60%;
+
+    text-align: center;
+
+    
+}
+.headline{
+    margin: 0;
+    padding: 0;
+    margin-top: 10%;
+    font-size: 3em;
+    font-weight: 400;
+}
+.emailInput{
+
+    margin-top: 10%;
+}
+.passwordInput{
+    margin-top: 2%;
+}
+input{
+    outline: none;
+    padding-top: 9%;
+    padding-bottom: 2%;
+    width: 50%;
+    border: none;
+    border-bottom: 3px solid var(--og);
+}
+.submitButton{
+    padding: 2% 20%;
+    margin-top: 10%;
+    margin-bottom: 8%;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 1.3em;
+    background: var(--og);
+}
+.secondButton{
+    color: black;
+    text-align: left;
+    font-size: .8em;
+
+
+}
+.spacer{
+    padding-bottom: 700px;
+
+}
